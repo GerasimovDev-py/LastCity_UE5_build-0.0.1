@@ -1,0 +1,34 @@
+[7992:11784:1116/095814.594:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7992:19460:1116/095814.659:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7992:11784:1116/095814.669:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19052:14084:1116/102903.010:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 19-3C9FEE9A8AF65D802DA4FD4B3BF71BFF will be ignored
+[5340:20384:1116/102903.070:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5340:20384:1116/102903.071:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5340:20384:1116/102903.071:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5340:20384:1116/102903.072:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5340:20384:1116/102903.072:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[7992:18044:1116/102903.717:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[7992:11784:1116/102903.939:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[7992:11784:1116/102903.939:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[7992:11784:1116/102903.939:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[7992:11784:1116/102903.939:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[19736:7364:1116/102925.647:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102925.678:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[9640:8388:1116/102931.938:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 1B-B4B9E85F69FB5BD5B21197143017A506 will be ignored
+[19736:7364:1116/102932.781:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102933.012:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102936.807:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102939.190:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102942.949:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102944.758:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102944.773:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102951.887:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102952.122:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102955.927:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/102958.286:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/103002.049:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/103003.918:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19736:7364:1116/103023.009:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[17184:20036:1116/103138.654:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 1E-07A5BC25018AD89C0963FFA1436F2557 will be ignored
+[13216:9164:1116/103144.048:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[7992:11784:1116/163023.780:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
